@@ -1,2 +1,3 @@
 ChannelEstimation
 =================
+Wireless communication has been evolved over the years. And channel estimation has been always a part of wireless communication systems. Despite huge improvements in wireless systems some major problems still continue. Because of path loss, long term fading, short term fading and noise the wireless channels have some impairments. To minimize all these negative effects of channels and to improve efficiency a perfect estimation of the channel is important and necessity. There are various designs in terms of channel modeling in wireless systems. There are two types of channels, one is time variant and other is time invariant channels.  In this project, channel estimation using state variables will be made on time-invariant channels
